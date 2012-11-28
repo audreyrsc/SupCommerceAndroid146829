@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">SupCommerce</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="menu_shopping_cart">Shopping cart</string>
+    <string name="product_list_name">Liste des produits</string>
+    <string name="shopping_cart_name">Panier</string>
+
+</resources>
